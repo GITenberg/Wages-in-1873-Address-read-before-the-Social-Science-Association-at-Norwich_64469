@@ -1,5 +1,8 @@
 _repo: Wages-in-1873-Address-read-before-the-Social-Science-Association-at-Norwich_64469
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 64469-h/images/cover.jpg
 creator:
   author:
     agent_name: Brassey, Thomas Brassey, Earl
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34179
     wikipedia: https://en.wikipedia.org/wiki/Thomas_Brassey,_1st_Earl_Brassey
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64469#Wages-in-1873-Address-read-before-the-Social-Science-Association-at-Norwich
 gutenberg_issued: '2021-02-06'
 gutenberg_type: Text
 identifiers:
